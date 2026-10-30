@@ -1,0 +1,6 @@
+{
+  "name": "TrendGram",
+  "description": "TrendGram Shorts - Premier short video community, creator studio & monetization platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
